@@ -1,12 +1,12 @@
 # Nacos Spring Cloud
 
-本项目内容为Nacos Spring Cloud样例
+本项目内容为Spring Cloud Nacos样例
 - 我的博客：https://blog.csdn.net/qierkang
 - GitHub：https://github.com/ek-template/nacos-cloud
 - Gitee：https://gitee.com/ek-template/nacos-cloud
 
 - **公益调试Nacos：https://nacos.qekang.com/nacos 账号/密码：nacos**
-- **公益调试Sentinel：https://nacos.qekang.com/nacos 账号/密码：nacos**
+- **公益调试Sentinel：https://sentinel.qekang.com 账号/密码：sentinel**
 
 ## 模块说明
 
@@ -24,18 +24,10 @@
 - [nacos-dubbo](nacos-dubbo)：Dubbo Spring Cloud
 - [nacos-dubbo-api](nacos-dubbo)：Dubbo Spring Cloud API 模块 服务接口和模型定义
 - [nacos-dubbo-client](nacos-dubbo)：Dubbo Spring Cloud 客户端实现
-- [nacos-dubbo-server](nacos-dubbo)：Dubbo Spring Cloud 服务端实现
+- [nacos-dubbo-server](nacos-dubbo)：Dubbo Spring Cloud 服务端实现n
 
 
 ## 已包含的组件
-
-**nacos-limiting Sentinel**
-
-阿里巴巴开源产品，把流量作为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。
-
-**nacos-config**
-
-阿里巴巴开源产品，使用Nacos作为配置中心。
 
 **Nacos**
 
@@ -44,3 +36,11 @@
 **Dubbo**
 
 Apache Dubbo™ 是一款高性能 Java RPC 框架。
+
+**nacos-limiting Sentinel**
+
+阿里巴巴开源产品，把流量作为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。
+
+**nacos-config**
+
+阿里巴巴开源产品，使用Nacos作为配置中心。
