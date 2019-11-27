@@ -38,7 +38,6 @@ public class NacosConfigApplication {
 
         @GetMapping("/test")
         public String hello() {
-            System.out.println("1111");
             return title;
         }
 
