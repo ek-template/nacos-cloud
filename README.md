@@ -10,21 +10,21 @@
 
 ## 模块说明
 
-- [nacos-api](nacos-api)：API 模块 服务接口和模型定义
-- [nacos-limiting](nacos-limiting)： 使用Sentinel实现接口限流
-- [nacos-config](nacos-config)：Spring Cloud 服务消费方
-- [nacos-provider](nacos-provider)：Spring Cloud 服务提供方
-- [nacos-consumer](nacos-consumer)：Spring Cloud 服务消费方
-- [nacos-gateway](nacos-gateway)：Spring Cloud 网关简易实现
-- [nacos-dao](nacos-dao)：Spring Cloud 数据交互层
-- [nacos-model](nacos-model)：Spring Cloud 模型实体层
-- [nacos-service](nacos-service)：Spring Cloud service服务逻辑层
-- [nacos-util](nacos-util)：Spring Cloud 公共工具包
-- [nacos-x](nacos-x)：Spring Cloud 三方工具包存放目录如：限流sentinel-dashboard-1.6.0.jar
-- [nacos-dubbo](nacos-dubbo)：Dubbo Spring Cloud
-- [nacos-dubbo-api](nacos-dubbo)：Dubbo Spring Cloud API 模块 服务接口和模型定义
-- [nacos-dubbo-client](nacos-dubbo)：Dubbo Spring Cloud 客户端实现
-- [nacos-dubbo-server](nacos-dubbo)：Dubbo Spring Cloud 服务端实现n
+- nacos-api：API 模块 服务接口和模型定义
+- nacos-limiting： 使用Sentinel实现接口限流
+- nacos-config：Spring Cloud Nacos配置中心
+- nacos-provider：Spring Cloud 服务提供方
+- nacos-consumer：Spring Cloud 服务消费方
+- nacos-gateway：Spring Cloud 网关简易实现
+- nacos-dao：Spring Cloud 数据交互层
+- nacos-model：Spring Cloud 模型实体层
+- nacos-service：Spring Cloud service服务逻辑层
+- nacos-util：Spring Cloud 公共工具包
+- nacos-x：Spring Cloud 三方工具包存放目录如：限流sentinel-dashboard-1.6.0.jar
+- nacos-dubbo：Dubbo Spring Cloud
+- nacos-dubbo-api：Dubbo Spring Cloud API 模块 服务接口和模型定义
+- nacos-dubbo-client：Dubbo Spring Cloud 客户端实现
+- nacos-dubbo-server：Dubbo Spring Cloud 服务端实现
 
 
 ## 已包含的组件
