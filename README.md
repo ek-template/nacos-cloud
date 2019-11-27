@@ -44,5 +44,6 @@
 Apache Dubbo™ 是一款高性能 Java RPC 框架。
 
 **公益开源**
-Nacos：https://nacos.qekang.com/nacos 账号/密码：nacos
-Sentinel：https://sentinel.qekang.com 账号/密码：sentinel
+
+- Nacos：https://nacos.qekang.com/nacos 账号/密码：nacos
+- Sentinel：https://sentinel.qekang.com 账号/密码：sentinel
