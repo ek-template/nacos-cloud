@@ -1,0 +1,48 @@
+
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/*/target/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+ 
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+ 
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+ 
+### VS Code ###
+.vscode/
+nacos-api/src/test/
+nacos-config/src/test/
+nacos-consumer/src/test/
+nacos-dao/src/
+nacos-dubbo/nacos-dubbo-api/src/main/resources/
+nacos-dubbo/nacos-dubbo-api/src/test/
+nacos-dubbo/nacos-dubbo-api/target/generated-sources/
+nacos-dubbo/nacos-dubbo-client/src/test/
+nacos-dubbo/nacos-dubbo-client/target/generated-sources/
+nacos-dubbo/nacos-dubbo-server/src/test/
+nacos-dubbo/nacos-dubbo-server/target/generated-sources/
+nacos-gateway/src/main/java/
+nacos-gateway/src/test/
+nacos-limiting/src/test/
+nacos-model/src/
+nacos-provider/src/test/
+nacos-service/src/
+nacos-util/src/
