@@ -2,9 +2,11 @@
 
 本项目内容为Nacos Spring Cloud样例
 - 我的博客：https://blog.csdn.net/qierkang
-- GitHub：https://github.com/dyc87112/SpringCloud-Learning
-- Gitee：https://gitee.com/didispace/SpringCloud-Learning
+- GitHub：https://github.com/ek-template/nacos-cloud
+- Gitee：https://gitee.com/ek-template/nacos-cloud
+
 - **公益调试Nacos：https://nacos.qekang.com/nacos 账号/密码：nacos**
+- **公益调试Sentinel：https://nacos.qekang.com/nacos 账号/密码：nacos**
 
 ## 模块说明
 
@@ -42,8 +44,3 @@
 **Dubbo**
 
 Apache Dubbo™ 是一款高性能 Java RPC 框架。
-
-**公益开源**
-
-- Nacos：https://nacos.qekang.com/nacos 账号/密码：nacos
-- Sentinel：https://sentinel.qekang.com 账号/密码：sentinel
